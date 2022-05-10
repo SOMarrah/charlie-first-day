@@ -16,7 +16,7 @@
 
 ### Git Workflow
 
-- informational commands: dir
-- git add <file-name>
-- git commit -m "a meaningful message about your changes"
-- git push origin <branch-name>
+- informational commands: `dir`, `git status`
+- `git add <file-name>`
+- `git commit -m "a meaningful message about your changes"`
+- `git push origin <branch-name>`
